@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6355ec6-bfca-43ff-bc4c-5564feaa6731" name="Changes" comment="feature(): инициализация проекта для выполнения заданий по теме &quot;Введение в Java&quot;" />
+    <list default="true" id="f6355ec6-bfca-43ff-bc4c-5564feaa6731" name="Changes" comment="feature(): инициализация проекта для выполнения заданий по теме &quot;Введение в Java&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ArrayIndexAndLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ArrayMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ArraySumAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ListExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ListExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ListExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ListExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ListExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ListExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ListExample7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ListExample8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/MapExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/MapExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/MapExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/MapExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/MapExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/MapExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/MapExample7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/MapExample8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/MaxInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/RowSumMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/SetExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/SetExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/SetExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/SetExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/SetExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/SetExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/SetExample7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/SetExample8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qa/practice/TwoDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +50,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
